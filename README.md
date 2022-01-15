@@ -11,7 +11,9 @@ Advertise your open source project with following projects.
 7. [fast-lorem-ipsum](https://www.npmjs.com/package/fast-lorem-ipsum)
 8. [detailed-xml-validator](https://www.npmjs.com/package/detailed-xml-validator)
 
-You can also be the part of this chain to promote some good open source projects on README of your open soure project.
+You can also be the part of this chain to promote some good open source projects on README of your open soure project. Please raise an issue to suggest your project name. You must be the author of that project.
+
+We also welcome your ideas about how we can make this initiative successful.
 
 ## How would it look like
 
